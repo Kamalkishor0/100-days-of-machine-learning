@@ -1,0 +1,10 @@
+[33m8931fa5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merged remote changes and fixed deprecated pandas append method
+[33m6580b51[m Fixed deprecated pandas append method in day24 notebook
+[33mb146ac3[m update
+[33m6ea4862[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m updated the notebooks for day 24 and day 25
+[33m6642050[m with more comments and explanations
+[33ma315efd[m Add files via upload
+[33m6dcc150[m Delete day15 - working with csv files/zomato.csv
+[33m5a0a8ad[m Add files via upload
+[33m1945fb5[m Create readme1.md
+[33mde07da9[m Create day68-stacking
